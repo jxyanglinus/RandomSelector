@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/qss">
+        <file>style.qss</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>macos-icons/go-down-symbolic.symbolic.png</file>
+        <file>macos-icons/go-next-symbolic.symbolic.png</file>
+        <file>macos-icons/go-previous-symbolic.symbolic.png</file>
+        <file>macos-icons/go-up-symbolic.symbolic.png</file>
+        <file>macos-icons/object-select-symbolic.symbolic.png</file>
+    </qresource>
+</RCC>
